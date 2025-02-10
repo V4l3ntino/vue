@@ -1,0 +1,9 @@
+{
+    "entryPoints": ["src/components/TarjetaProducto.vue"],
+    "out": "docs",
+    "name": "Documentación del Componente TarjetaProducto",
+    "excludePrivate": true,
+    "excludeProtected": true,
+    "excludeExternals": true,
+    "plugin": ["typedoc-plugin-vue"]
+  }
